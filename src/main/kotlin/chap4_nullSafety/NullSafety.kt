@@ -1,4 +1,4 @@
-package chapt4_nullSafety
+package chap4_nullSafety
 
 fun getNullStr() : String? = null;
 

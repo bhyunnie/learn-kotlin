@@ -1,4 +1,4 @@
-package chapt4_nullSafety
+package chap4_nullSafety
 
 fun main () {
     // val a : String = null; // FIXME : 에러 발생
